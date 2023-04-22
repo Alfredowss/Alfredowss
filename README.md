@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alfredowss
 - I’m interested in all the aspects of the software development and Audio engineering 
-- 🌱 I’m currently learning about Network architecture, 3d modeling.
+- 🌱 I’m currently learning about Network and computer architecture, 3d modeling and Cybersecurity.
 - I’m looking to collaborate on open source projects 
 - follow me on medium https://medium.com/@Alfredws
 
